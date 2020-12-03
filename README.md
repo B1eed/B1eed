@@ -1,6 +1,10 @@
 ### 1x2Bytes
 
-#### Projetc
++ Red Team
++ Coder/Pentest
++ Interesting in CyberSecurity
+
+#### Project
 
 + OSSFileTool
 
